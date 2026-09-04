@@ -172,7 +172,7 @@ if uploaded_file is not None:
                     fail_count += 1
 
 
-                time.sleep(2)
+                time.sleep(0.5)
 
 
             progress_bar.progress(
