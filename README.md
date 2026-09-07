@@ -14,6 +14,10 @@ Instagram 게시물 URL이 포함된 Excel 파일을 업로드하면
 - 조회 시각 기록
 - 결과 Excel 다운로드
 
+### 🔗 Live Demo
+
+[Instagram Engagement Checker](https://instagramchecker.streamlit.app/)
+
 ## Tech Stack
 
 - Python
